@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Public Website</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+        p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Public Page</h1>
+    <p>Anyone can access this page from anywhere!</p
+</body>
+</html>
